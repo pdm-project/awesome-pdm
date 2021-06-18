@@ -19,9 +19,8 @@
 
 - [A Review: Pipenv vs. Poetry vs. PDM](https://frostming.com/2021/03-26/pm-review-2021/) - Frost Ming - 2021/03
 - [You don't really need a virtualenv](https://frostming.com/2021/01-22/introducing-pdm/) - Frost Ming - 2021/01
-- [PDM - 一款新的 Python 包管理器
-](https://frostming.com/2020/02-28/pdm-introduction/)(Chinese) - Frost Ming - 2020/02
+- [PDM - 一款新的 Python 包管理器](https://frostming.com/2020/02-28/pdm-introduction/) (Chinese) - Frost Ming - 2020/02
 
 ## Slides & Talks
 
-- [基于 PEP 582 的包管理器](https://slides.fming.dev/pep582/)(Chinese) - Frost Ming - 2020/05
+- [基于 PEP 582 的包管理器](https://slides.fming.dev/pep582/) (Chinese) - Frost Ming - 2020/05
