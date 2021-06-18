@@ -13,6 +13,7 @@
 - [copier-pdm](https://github.com/pawamoy/copier-pdm) - Another Copier template for Python projects managed by PDM
 - [setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
 - [tox-pdm](https://github.com/pdm-project/tox-pdm) - A plugin for tox that utilizes PDM as the package manager and installer
+- [VSCode PDM Task Provider](https://marketplace.visualstudio.com/items?itemName=knowsuchagency.pdm-task-provider) - VSCode Task provider for PDM
 
 ## Articles
 
