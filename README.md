@@ -23,4 +23,3 @@
 ## Slides & Talks
 
 - [基于 PEP 582 的包管理器](https://slides.fming.dev/pep582/)(Chinese) - Frost Ming - 2020/05
-- 
