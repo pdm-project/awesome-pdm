@@ -22,6 +22,10 @@
 - [You don't really need a virtualenv](https://frostming.com/2021/01-22/introducing-pdm/) - Frost Ming - 2021/01
 - [PDM - 一款新的 Python 包管理器](https://frostming.com/2020/02-28/pdm-introduction/) (Chinese) - Frost Ming - 2020/02
 
+## Gists
+
+- [Automatic dependency updates with PDM](https://gist.github.com/carstencodes/bdf6c1664f49f387b6994a02965e787c) - Carsten Igel (@carstencodes) - 2022/02
+
 ## Slides & Talks
 
 - [基于 PEP 582 的包管理器](https://slides.fming.dev/pep582/) (Chinese) - Frost Ming - 2020/05
