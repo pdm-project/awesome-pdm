@@ -8,6 +8,7 @@
 - [pdm-venv](https://github.com/pdm-project/pdm-venv) - A plugin for pdm that enables virtualenv management
 - [pdm-version](https://github.com/abersheeran/pdm-version) - Make `pdm version` like `poetry version`
 - [pdm-bump](https://github.com/carstencodes/pdm-bump) - A PDM plugin that behaves like [bump2version](https://github.com/c4urself/bump2version) relying on PEP440 compliant versions. 
+- [pdm-shell](https://github.com/abersheeran/pdm-shell) - Use `pdm shell` set PATH and PYTHONPATH in the current shell
 
 ## Eco-system
 
