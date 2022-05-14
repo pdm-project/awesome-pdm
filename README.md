@@ -18,6 +18,7 @@
 - [setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
 - [tox-pdm](https://github.com/pdm-project/tox-pdm) - A plugin for tox that utilizes PDM as the package manager and installer
 - [VSCode PDM Task Provider](https://marketplace.visualstudio.com/items?itemName=knowsuchagency.pdm-task-provider) - VSCode Task provider for PDM
+- [Mina](https://github.com/GreyElaina/Mina): a monorepo-like implementation, which act as a hacking agent of `pdm-pep517`.
 
 ## Articles
 
