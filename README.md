@@ -11,6 +11,7 @@
 - [pdm-shell](https://github.com/abersheeran/pdm-shell) - Use `pdm shell` set PATH and PYTHONPATH in the current shell
 - [pdm-django](https://github.com/neutron-sync/pdm-django/) - `pdm manage` and `pdm django-admin` shortcuts for Django commands
 - [pdm-autoexport](https://github.com/frostming/pdm-autoexport) - A PDM plugin to sync the exported files with the project file
+- [pdm-vscode](https://github.com/frostming/pdm-vscode) - A PDM plugin that autogenerates workspace vscode settings for you
 
 ## Eco-system
 
