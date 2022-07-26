@@ -7,7 +7,7 @@
 - [pdm-publish](https://github.com/branchvincent/pdm-publish) - A PDM plugin to publish to PyPI
 - [pdm-venv](https://github.com/pdm-project/pdm-venv) - (Deprecated) A plugin for pdm that enables virtualenv management
 - [pdm-version](https://github.com/abersheeran/pdm-version) - Make `pdm version` like `poetry version`
-- [pdm-bump](https://github.com/carstencodes/pdm-bump) - A PDM plugin that behaves like [bump2version](https://github.com/c4urself/bump2version) relying on PEP440 compliant versions. 
+- [pdm-bump](https://github.com/carstencodes/pdm-bump) - A PDM plugin that behaves like [bump2version](https://github.com/c4urself/bump2version) relying on PEP440 compliant versions
 - [pdm-shell](https://github.com/abersheeran/pdm-shell) - Use `pdm shell` set PATH and PYTHONPATH in the current shell
 - [pdm-django](https://github.com/neutron-sync/pdm-django/) - `pdm manage` and `pdm django-admin` shortcuts for Django commands
 
@@ -18,7 +18,8 @@
 - [setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
 - [tox-pdm](https://github.com/pdm-project/tox-pdm) - A plugin for tox that utilizes PDM as the package manager and installer
 - [VSCode PDM Task Provider](https://marketplace.visualstudio.com/items?itemName=knowsuchagency.pdm-task-provider) - VSCode Task provider for PDM
-- [Mina](https://github.com/GreyElaina/Mina): a monorepo-like implementation, which act as a hacking agent of `pdm-pep517`.
+- [Mina](https://github.com/GreyElaina/Mina) - a monorepo-like implementation, which act as a hacking agent of `pdm-pep517`
+- [sync_with_pdm](https://github.com/floatingpurr/sync_with_pdm) - a `pre-commit` hook to keep PDM-managed packages and pre-commit hooks in sync
 
 ## Articles
 
