@@ -22,6 +22,7 @@
 - [VSCode PDM Task Provider](https://marketplace.visualstudio.com/items?itemName=knowsuchagency.pdm-task-provider) - VSCode Task provider for PDM
 - [Mina](https://github.com/GreyElaina/Mina) - a monorepo-like implementation, which act as a hacking agent of `pdm-pep517`
 - [sync_with_pdm](https://github.com/floatingpurr/sync_with_pdm) - a `pre-commit` hook to keep PDM-managed packages and pre-commit hooks in sync
+- [update-deps-action)(https://github.com/marketplace/actions/pdm-update-dependencies) - A GitHub Action to update the pdm lockfile
 
 ## Articles
 
