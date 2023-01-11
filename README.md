@@ -13,6 +13,7 @@
 - [pdm-autoexport](https://github.com/frostming/pdm-autoexport) - A PDM plugin to sync the exported files with the project file
 - [pdm-vscode](https://github.com/frostming/pdm-vscode) - A PDM plugin that autogenerates workspace vscode settings for you
 - [pdm-multirun](https://github.com/pawamoy/pdm-multirun) - A PDM plugin to run a command on multiple Python versions
+- [pdm-conda](https://github.com/macro128/pdm-conda) - A PDM plugin to install project dependencies with [Conda](https://docs.conda.io/projects/conda/en/latest/index.html)
 
 ## Eco-system
 
