@@ -20,6 +20,7 @@
 - [copier-pdm](https://github.com/pdm-project/copier-pdm) - A Copier template for PDM projects
 - [copier-pdm](https://github.com/pawamoy/copier-pdm) - Another Copier template for Python projects managed by PDM
 - [setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
+- [pdm-ci](https://github.com/Seven45/pdm-ci) - A docker image for usage in multistage builds or gitlab-ci
 - [tox-pdm](https://github.com/pdm-project/tox-pdm) - A plugin for tox that utilizes PDM as the package manager and installer
 - [VSCode PDM Task Provider](https://marketplace.visualstudio.com/items?itemName=knowsuchagency.pdm-task-provider) - VSCode Task provider for PDM
 - [Mina](https://github.com/GreyElaina/Mina) - a monorepo-like implementation, which act as a hacking agent of `pdm-pep517`
