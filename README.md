@@ -14,6 +14,7 @@
 - [pdm-vscode](https://github.com/frostming/pdm-vscode) - A PDM plugin that autogenerates workspace vscode settings for you
 - [pdm-multirun](https://github.com/pawamoy/pdm-multirun) - A PDM plugin to run a command on multiple Python versions
 - [pdm-conda](https://github.com/macro128/pdm-conda) - A PDM plugin to install project dependencies with [Conda](https://docs.conda.io/projects/conda/en/latest/index.html)
+- [pdm-plugin-torch](https://github.com/EmbarkStudios/pdm-plugin-torch) - A utility tool for selecting torch backend and version
 
 ## Eco-system
 
