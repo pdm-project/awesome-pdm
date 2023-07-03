@@ -16,6 +16,7 @@
 - [pdm-conda](https://github.com/macro128/pdm-conda) - A PDM plugin to install project dependencies with [Conda](https://docs.conda.io/projects/conda/en/latest/index.html)
 - [pdm-plugin-torch](https://github.com/EmbarkStudios/pdm-plugin-torch) - A utility tool for selecting torch backend and version
 - [pdm-dotenv](https://github.com/znd4/pdm-dotenv) - A PDM plugin that loads `.env` files
+- [sync-pre-commit-fork](https://github.com/GabDug/sync-pre-commit-lock) - A PDM plugin to ease your life with `pre-commit` (automatic install, sync)
 
 ## Eco-system
 
