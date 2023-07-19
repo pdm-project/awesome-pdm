@@ -17,6 +17,7 @@
 - [pdm-plugin-torch](https://github.com/EmbarkStudios/pdm-plugin-torch) - A utility tool for selecting torch backend and version
 - [pdm-dotenv](https://github.com/znd4/pdm-dotenv) - A PDM plugin that loads `.env` files
 - [sync-pre-commit-fork](https://github.com/GabDug/sync-pre-commit-lock) - A PDM plugin to ease your life with `pre-commit` (automatic install, sync)
+- [pdm-pip-index-url](https://github.com/theredfoxlee/pdm-pip-index-url) - A PDM plugin that automatically converts `PIP_*INDEX_URL` to `PDM_PYPI_*` envs
 
 ## Eco-system
 
