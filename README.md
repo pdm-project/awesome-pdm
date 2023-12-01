@@ -4,7 +4,6 @@
 ## Plugins
 
 - [pdm-packer](https://github.com/frostming/pdm-packer) - A PDM plugin that packs your packages into a zipapp
-- [pdm-publish](https://github.com/branchvincent/pdm-publish) - A PDM plugin to publish to PyPI
 - [pdm-venv](https://github.com/pdm-project/pdm-venv) - (Deprecated) A plugin for pdm that enables virtualenv management
 - [pdm-version](https://github.com/abersheeran/pdm-version) - Make `pdm version` like `poetry version`
 - [pdm-bump](https://github.com/carstencodes/pdm-bump) - A PDM plugin that behaves like [bump2version](https://github.com/c4urself/bump2version) relying on PEP440 compliant versions
