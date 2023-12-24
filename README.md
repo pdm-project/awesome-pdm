@@ -15,11 +15,12 @@
 - [pdm-conda](https://github.com/macro128/pdm-conda) - A PDM plugin to install project dependencies with [Conda](https://docs.conda.io/projects/conda/en/latest/index.html)
 - [pdm-plugin-torch](https://github.com/EmbarkStudios/pdm-plugin-torch) - A utility tool for selecting torch backend and version
 - [pdm-dotenv](https://github.com/znd4/pdm-dotenv) - A PDM plugin that loads `.env` files
-- [sync-pre-commit-fork](https://github.com/GabDug/sync-pre-commit-lock) - A PDM plugin to ease your life with `pre-commit` (automatic install, sync)
+- [sync-pre-commit-lock](https://github.com/GabDug/sync-pre-commit-lock) - A PDM plugin to ease your life with `pre-commit` (automatic install, sync)
 - [pdm-pip-index-url](https://github.com/theredfoxlee/pdm-pip-index-url) - A PDM plugin that automatically converts `PIP_*INDEX_URL` to `PDM_PYPI_*` envs
 - [pdm-build-locked](https://github.com/sigma67/pdm-build-locked) - A PDM plugin to add locked packages as additional optional dependency groups to the distribution metadata on build
 - [pdm-readiness](https://github.com/andriykohut/pdm-readiness) - A PDM plugin to check if your project dependencies support specified Python version
 - [pdm-dockerize](https://github.com/noirbizarre/pdm-dockerize) - A PDM plugin to help generating docker images from PDM projects
+- [pdm-wheel](https://github.com/GabDug/pdm-wheel) - A PDM plugin to export your dependencies wheels, mainly for CI and deployments
 
 ## Eco-system
 
