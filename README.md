@@ -7,6 +7,7 @@
 - [pdm-packer](https://github.com/frostming/pdm-packer) - A PDM plugin that packs your packages into a zipapp
 - [pdm-version](https://github.com/abersheeran/pdm-version) - Make `pdm version` like `poetry version`
 - [pdm-bump](https://github.com/carstencodes/pdm-bump) - A PDM plugin that behaves like [bump2version](https://github.com/c4urself/bump2version) relying on PEP440 compliant versions
+- [pdm-audit](https://github.com/carstencodes/pdm-audit) - A PDM plugin that hooks into the installation end executes [pip-audit](https://github.com/pypa/pip-audit) right after installation or manually
 - [pdm-shell](https://github.com/abersheeran/pdm-shell) - Use `pdm shell` set PATH and PYTHONPATH in the current shell
 - [pdm-django](https://github.com/neutron-sync/pdm-django/) - `pdm manage` and `pdm django-admin` shortcuts for Django commands
 - [pdm-autoexport](https://github.com/frostming/pdm-autoexport) - A PDM plugin to sync the exported files with the project file
