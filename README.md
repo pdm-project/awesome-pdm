@@ -28,6 +28,7 @@
 
 - [copier-pdm](https://github.com/pdm-project/copier-pdm) - A Copier template for PDM projects
 - [copier-pdm](https://github.com/pawamoy/copier-pdm) - Another Copier template for Python projects managed by PDM
+- [cookiecutter-pdm-pypackage](https://github.com/Aviksaikat/cookiecutter-pdm-pypackage) - A cookiecutter pdm pypackage template with ruff, mkdocs, precommit-hooks, github actions and more
 - [setup-pdm](https://github.com/pdm-project/setup-pdm) - A GitHub Action that installs pdm properly for all Python versions
 - [pdm-ci](https://github.com/Seven45/pdm-ci) - A docker image for usage in multistage builds or gitlab-ci
 - [tox-pdm](https://github.com/pdm-project/tox-pdm) - A plugin for tox that utilizes PDM as the package manager and installer
