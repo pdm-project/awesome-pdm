@@ -1,4 +1,7 @@
-# Awesome PDM [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome PDM 
+
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![PDM](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fpdm-project%2F.github%2Fbadge.json&style=flat-square)](https://pdm-project.org)
 > A curated list of awesome PDM plugins and resources
 
 ## Plugins
