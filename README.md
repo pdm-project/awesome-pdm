@@ -26,6 +26,7 @@
 - [pdm-readiness](https://github.com/andriykohut/pdm-readiness) - A PDM plugin to check if your project dependencies support specified Python version
 - [pdm-dockerize](https://github.com/noirbizarre/pdm-dockerize) - A PDM plugin to help generating docker images from PDM projects
 - [pdm-wheel](https://github.com/GabDug/pdm-wheel) - A PDM plugin to export your dependencies wheels, mainly for CI and deployments
+- [pdm-shear](https://github.com/pdm-project/pdm-shear) - Detect and remove unused dependencies for Python projects
 
 ## Eco-system
 
